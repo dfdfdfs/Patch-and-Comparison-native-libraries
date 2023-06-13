@@ -1,1 +1,1 @@
-# Patch-and-Comparison-native-libraries
+The program is designed to compare and patch native libraries directly on the phone. Program features: Patching native libraries. Comparison of native libraries. Two text editors. The first one is for opening files, small in size. The second opens 1GB files.
